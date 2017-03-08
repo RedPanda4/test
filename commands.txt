@@ -1,0 +1,11 @@
+git status - da as informações ente o teu repositorio e o "online"
+git add <ficeiro|-a/. para adiocinar tudo>- adiciona ao repositorio para mandar
+git commit -m "string"-  envia todos ficheiro, mas nao envia
+git push - envia para o repositorio online
+git pull - copia as diferencas do repositorio online
+git clone <link> - baixa o repositorio online
+
+git branch - para veres os branchs
+gti branch <name> - para criar branch
+git checkout <name> -mudar para bracnh
+git merge <to> - juntar com...
